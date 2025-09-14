@@ -66,7 +66,7 @@ fintech-data-pipeline/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/fintech-data-pipeline.git
+git clone https://github.com/suniltechs/fintech-data-pipeline.git
 cd fintech-data-pipeline
 ```
 2. **Create and activate a virtual environment**
